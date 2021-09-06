@@ -1,0 +1,10 @@
+C:\Users\Nur\source\repos\GazeteXML\GazeteXML.ODEV\bin\Debug\GazeteXML.ODEV.exe.config
+C:\Users\Nur\source\repos\GazeteXML\GazeteXML.ODEV\bin\Debug\GazeteXML.ODEV.exe
+C:\Users\Nur\source\repos\GazeteXML\GazeteXML.ODEV\bin\Debug\GazeteXML.ODEV.pdb
+C:\Users\Nur\source\repos\GazeteXML\GazeteXML.ODEV\obj\Debug\GazeteXML.ODEV.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\GazeteXML\GazeteXML.ODEV\obj\Debug\GazeteXML.ODEV.Properties.Resources.resources
+C:\Users\Nur\source\repos\GazeteXML\GazeteXML.ODEV\obj\Debug\GazeteXML.ODEV.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\GazeteXML\GazeteXML.ODEV\obj\Debug\GazeteXML.ODEV.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\GazeteXML\GazeteXML.ODEV\obj\Debug\GazeteXML.ODEV.exe
+C:\Users\Nur\source\repos\GazeteXML\GazeteXML.ODEV\obj\Debug\GazeteXML.ODEV.pdb
+C:\Users\Nur\source\repos\GazeteXML\GazeteXML.ODEV\obj\Debug\GazeteXML.ODEV.Form1.resources
